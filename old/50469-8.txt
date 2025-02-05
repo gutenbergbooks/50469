@@ -1,4 +1,37 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 50469 ***
+Project Gutenberg's A Prayer Book for Soldiers and Sailors, by Anonymous
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: A Prayer Book for Soldiers and Sailors
+
+Author: Anonymous
+
+Release Date: November 17, 2015 [EBook #50469]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PRAYER BOOK--SOLDIERS, SAILORS ***
+
+
+
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
 
                             A PRAYER BOOK
                                  for
@@ -10,11 +43,11 @@
                    THE PROTESTANT EPISCOPAL CHURCH
                                   BY
                        THE CHURCH PENSION FUND
-                     20 Exchange Place · New York
+                     20 Exchange Place � New York
                                  1941
 
 
-                          The Lord’s Prayer
+                          The Lord's Prayer
 
 Our Father, who art in heaven, Hallowed be thy Name. Thy kingdom come.
 Thy will be done, On earth as it is in heaven. Give us this day our
@@ -24,7 +57,7 @@ from evil. For thine is the kingdom, and the power, and the glory, for
 ever and ever. Amen.
 
 
-                         The Apostles’ Creed
+                         The Apostles' Creed
 
 I believe in God the Father Almighty, Maker of heaven and earth:
 
@@ -97,7 +130,7 @@ SCRIPTURE LESSON
 
 HYMN
 
-APOSTLES’ CREED
+APOSTLES' CREED
 
 I believe in God the Father Almighty, Maker of heaven and earth:
 
@@ -123,7 +156,7 @@ O Almighty Father, Lord of heaven and earth, we confess that we have
 sinned against thee in thought, word, and deed. Have mercy upon us,
 O God, after thy great goodness; according to the multitude of thy
 mercies, do away our offences and cleanse us from our sins; for
-Jesus Christ’s sake. Amen.
+Jesus Christ's sake. Amen.
 
 
                              Absolution
@@ -176,15 +209,15 @@ us, and give us peace, both now and evermore. _Amen._
 
 
                            The Order for
-              The Administration of the Lord’s Supper
+              The Administration of the Lord's Supper
                                  or
                            Holy Communion
 
 
-¶ _At the Communion-time the Holy Table shall have upon it a fair
+� _At the Communion-time the Holy Table shall have upon it a fair
 white linen cloth. And the Priest, standing reverently before the
-Holy Table, shall say the Lord’s Prayer and the Collect following,
-the People kneeling; but the Lord’s Prayer may be omitted at the
+Holy Table, shall say the Lord's Prayer and the Collect following,
+the People kneeling; but the Lord's Prayer may be omitted at the
 discretion of the Priest._
 
 Our Father, who art in heaven, Hallowed be thy Name. Thy kingdom
@@ -200,15 +233,15 @@ from whom no secrets are hid; Cleanse the thoughts of our hearts by
 the inspiration of thy Holy Spirit, that we may perfectly love thee,
 and worthily magnify thy holy Name; through Christ our Lord. _Amen._
 
-¶ _Then shall the Priest, turning to the People, rehearse distinctly
+� _Then shall the Priest, turning to the People, rehearse distinctly
 The Ten Commandments; and the People, still kneeling, shall, after
 every Commandment, ask God mercy for their transgressions for the
 time past, and grace to keep the law for the time to come._
 
-¶ _And Note, That in rehearsing The Ten Commandments, the Priest may
+� _And Note, That in rehearsing The Ten Commandments, the Priest may
 omit that part of the Commandment which is inset._
 
-¶ _The Decalogue may be omitted, provided it be said at least one
+� _The Decalogue may be omitted, provided it be said at least one
 Sunday in each month. But Note, That whenever it is omitted, the
 Priest shall say the Summary of the Law, beginning_, Hear what our
 Lord Jesus Christ saith.
@@ -278,14 +311,14 @@ _Lord, have mercy upon us, and incline our hearts to keep this law._
 
 Thou shall not covet
 
-  thy neighbour’s house, thou shalt not covet thy neighbour’s wife,
+  thy neighbour's house, thou shalt not covet thy neighbour's wife,
   nor his servant, nor his maid, nor his ox, nor his ass, nor any
   thing that is his.
 
 _Lord, have mercy upon us, and write all these thy laws in our
 hearts, we beseech thee._
 
-¶ _Then may the Priest say,_
+� _Then may the Priest say,_
 
                Hear what our Lord Jesus Christ saith.
 
@@ -295,13 +328,13 @@ commandment. And the second is like unto it; Thou shalt love thy
 neighbour as thyself. On these two commandments hang all the Law and
 the Prophets.
 
-¶ _Here, if the Decalogue hath been omitted, shall be said,_
+� _Here, if the Decalogue hath been omitted, shall be said,_
 
   Lord, have mercy upon us.
   _Christ, have mercy upon us._
   Lord, have mercy upon us.
 
-¶ _Then the Priest may say,_
+� _Then the Priest may say,_
 
 O Almighty Lord, and everlasting God, vouchsafe, we beseech thee, to
 direct, sanctify, and govern, both our hearts and bodies, in the
@@ -310,34 +343,34 @@ through thy most mighty protection, both here and ever, we may be
 preserved in body and soul; through our Lord and Saviour Jesus
 Christ. _Amen._
 
-¶ _Here shall be said,_
+� _Here shall be said,_
 
                  The Lord be with you.
      _Answer._   And with thy spirit.
    _Minister._   Let us pray.
 
-¶ _Then shall the Priest say the Collect of the Day. And after the
+� _Then shall the Priest say the Collect of the Day. And after the
 Collect the Minister appointed shall read the Epistle, first
-saying,_ The Epistle is written in the —— Chapter of ——, beginning
-at the —— Verse. _The Epistle ended, he shall say_, Here endeth the
-Epistle.
+saying,_ The Epistle is written in the ---- Chapter of ----,
+beginning at the ---- Verse. _The Epistle ended, he shall say_, Here
+endeth the Epistle.
 
-¶ _Here may be sung a Hymn or an Anthem._
+� _Here may be sung a Hymn or an Anthem._
 
-¶ _Then, all the People standing, the Minister appointed shall read
-the Gospel, first saying_, The Holy Gospel is written in the ——
-Chapter of ——, beginning at the —— Verse.
+� _Then, all the People standing, the Minister appointed shall read
+the Gospel, first saying_, The Holy Gospel is written in the ----
+Chapter of ----, beginning at the ---- Verse.
 
-¶ _Here shall be said,_
+� _Here shall be said,_
 
                      Glory be to thee, O Lord.
 
-¶ _And after the Gospel may be said,_
+� _And after the Gospel may be said,_
 
                     Praise be to thee, O Christ.
 
-¶ _Then shall be said the Creed commonly called the Nicene, or else
-the Apostles’ Creed; but the Creed may be omitted, if it hath been
+� _Then shall be said the Creed commonly called the Nicene, or else
+the Apostles' Creed; but the Creed may be omitted, if it hath been
 said immediately before in Morning Prayer; Provided, That the Nicene
 Creed shall be said on Christmas Day, Easter Day, Ascension Day,
 Whitsunday, and Trinity Sunday._
@@ -364,15 +397,15 @@ And I believe one Catholic and Apostolic Church: I acknowledge one
 Baptism for the remission of sins: And I look for the Resurrection
 of the dead: And the Life of the world to come. Amen.
 
-¶ _Then shall be declared unto the People what Holy Days, or Fasting
+� _Then shall be declared unto the People what Holy Days, or Fasting
 Days, are in the week following to be observed; and (if occasion be)
 shall Notice be given of the Communion, and of the Banns of
 Matrimony, and of other matters to be published._
 
-¶ _Here, or immediately after the Creed, may be said the Bidding
+� _Here, or immediately after the Creed, may be said the Bidding
 Prayer, or other authorized prayers and intercessions._
 
-¶ _Then followeth the Sermon. After which, the Priest, when there is
+� _Then followeth the Sermon. After which, the Priest, when there is
 a Communion, shall return to the Holy Table, and begin the
 Offertory, saying one or more of these Sentences following, as he
 thinketh most convenient._
@@ -388,30 +421,30 @@ exalted as head above all. 1 Chron. xxix. 11.
 All things come of thee, O Lord, and of thine own have we given
 thee. 1 Chron. xxix. 14.
 
-¶ _And_ Note, _That these Sentences may be used on any other
+� _And_ Note, _That these Sentences may be used on any other
 occasion of Public Worship when the Offerings of the People are to
 be received._
 
-¶ _The Deacons, Church-wardens, or other fit persons appointed for
+� _The Deacons, Church-wardens, or other fit persons appointed for
 that purpose, shall receive the Alms for the Poor, and other
 Offerings of the People, in a decent Basin to be provided by the
 Parish; and reverently bring it to the Priest, who shall humbly
 present and place it upon the Holy Table._
 
-¶ _And the Priest shall then offer, and shall place upon the Holy
+� _And the Priest shall then offer, and shall place upon the Holy
 Table, the Bread and the Wine._
 
-¶ _And when the Alms and Oblations are being received and presented,
+� _And when the Alms and Oblations are being received and presented,
 there may be sung a Hymn, or an Offertory Anthem in the words of
 Holy Scripture or of the Book of Common Prayer, under the direction
 of the Priest._
 
-¶ _Here the Priest may ask the secret intercessions of the
+� _Here the Priest may ask the secret intercessions of the
 Congregation for any who have desired the prayers of the Church._
 
-¶ _Then shall the Priest say,_
+� _Then shall the Priest say,_
 
-Let us pray for the whole state of Christ’s Church.
+Let us pray for the whole state of Christ's Church.
 
 Almighty and everliving God, who by thy holy Apostle hast taught us
 to make prayers, and supplications, and to give thanks for all men;
@@ -445,10 +478,10 @@ And we also bless thy holy Name for all thy servants departed this
 life in thy faith and fear; beseeching thee to grant them continual
 growth in thy love and service, and to give us grace so to follow
 their good examples, that with them we may be partakers of thy
-heavenly kingdom. Grant this, O Father, for Jesus Christ’s sake, our
+heavenly kingdom. Grant this, O Father, for Jesus Christ's sake, our
 only Mediator and Advocate. _Amen._
 
-¶ _Then shall the Priest say to those who come to receive the Holy
+� _Then shall the Priest say to those who come to receive the Holy
 Communion,_
 
 Ye who do truly and earnestly repent you of your sins, and are in
@@ -458,7 +491,7 @@ in his holy ways: Draw near with faith, and take this holy Sacrament
 to your comfort; and make your humble confession to Almighty God,
 devoutly kneeling.
 
-¶ _Then shall this General Confession be made, by the Priest and all
+� _Then shall this General Confession be made, by the Priest and all
 those who are minded to receive the Holy Communion, humbly
 kneeling._
 
@@ -470,12 +503,12 @@ Provoking most justly thy wrath and indignation against us. We do
 earnestly repent, And are heartily sorry for these our misdoings;
 The remembrance of them is grievous unto us; The burden of them is
 intolerable. Have mercy upon us, Have mercy upon us, most merciful
-Father; For thy Son our Lord Jesus Christ’s sake, Forgive us all
+Father; For thy Son our Lord Jesus Christ's sake, Forgive us all
 that is past; And grant that we may ever hereafter Serve and please
 thee In newness of life, To the honour and glory of thy Name;
 Through Jesus Christ our Lord. Amen.
 
-¶ _Then shall the Priest (the Bishop if he be present) stand up, and
+� _Then shall the Priest (the Bishop if he be present) stand up, and
 turning to the People, say,_
 
 Almighty God, our heavenly Father, who of his great mercy hath
@@ -485,7 +518,7 @@ deliver you from all your sins; confirm and strengthen you in all
 goodness; and bring you to everlasting life; through Jesus Christ
 our Lord. _Amen._
 
-¶ _Then shall the Priest say,_
+� _Then shall the Priest say,_
 
 Hear what comfortable words our Saviour Christ saith unto all who
 truly turn to him.
@@ -508,20 +541,20 @@ If any man sin, we have an Advocate with the Father, Jesus Christ
 the righteous; and he is the Propitiation for our sins. 1 St. John
 ii. 1, 2.
 
-¶ _After which the Priest shall proceed, saying,_
+� _After which the Priest shall proceed, saying,_
 
                  Lift up your hearts.
      _Answer._   We lift them up unto the Lord.
      _Priest._   Let us give thanks unto our Lord God.
      _Answer._   It is meet and right so to do.
 
-¶ _Then shall the Priest turn to the Holy Table, and say,_
+� _Then shall the Priest turn to the Holy Table, and say,_
 
 It is very meet, right, and our bounden duty, that we should at all
 times, and in all places, give thanks unto thee, O Lord, Holy
 Father, Almighty, Everlasting God.
 
-¶ _Here shall follow the Proper Preface, according to the time, if
+� _Here shall follow the Proper Preface, according to the time, if
 there be any specially appointed; or else immediately shall be said
 or sung by the Priest,_
 
@@ -529,7 +562,7 @@ Therefore with Angels and Archangels, and with all the company of
 heaven, we laud and magnify thy glorious Name; evermore praising
 thee, and saying,
 
-¶ _Priest and People._
+� _Priest and People._
 
 HOLY, HOLY, HOLY, Lord God of hosts, Heaven and earth are full of
 thy glory: Glory be to thee, O Lord Most High. Amen.
@@ -540,7 +573,7 @@ thy glory: Glory be to thee, O Lord Most High. Amen.
 
                              Christmas
 
-¶ _Upon Christmas Day, and seven days after._
+� _Upon Christmas Day, and seven days after._
 
 Because thou didst give Jesus Christ, thine only Son, to be born as
 at this time for us; who, by the operation of the Holy Ghost, was
@@ -552,7 +585,7 @@ Therefore with Angels, etc.
 
                               Epiphany
 
-¶ _Upon the Epiphany, and seven days after._
+� _Upon the Epiphany, and seven days after._
 
 Through Jesus Christ our Lord; who, in substance of our mortal
 flesh, manifested forth his glory; that he might bring us out of
@@ -563,7 +596,7 @@ Therefore with Angels, etc.
 
           Purification, Annunciation, and Transfiguration
 
-¶ _Upon the Feasts of the Purification, Annunciation, and
+� _Upon the Feasts of the Purification, Annunciation, and
 Transfiguration._
 
 Because in the Mystery of the Word made flesh, thou hast caused a
@@ -575,7 +608,7 @@ Therefore with Angels, etc.
 
                                Easter
 
-¶ _Upon Easter Day, and seven days after._
+� _Upon Easter Day, and seven days after._
 
 But chiefly are we bound to praise thee for the glorious
 Resurrection of thy Son Jesus Christ our Lord: for he is the very
@@ -588,7 +621,7 @@ Therefore with Angels, etc.
 
                              Ascension
 
-¶ _Upon Ascension Day, and seven days after._
+� _Upon Ascension Day, and seven days after._
 
 Through thy most dearly beloved Son Jesus Christ our Lord; who,
 after his most glorious Resurrection, manifestly appeared to all his
@@ -601,7 +634,7 @@ Therefore with Angels, etc.
 
                             Whitsuntide
 
-¶ _Upon Whitsunday, and six days after._
+� _Upon Whitsunday, and six days after._
 
 Through Jesus Christ our Lord; according to whose most true promise,
 the Holy Ghost came down as at this time from heaven, lighting upon
@@ -616,7 +649,7 @@ Therefore with Angels, etc.
 
                            Trinity Sunday
 
-¶ _Upon the Feast of Trinity only._
+� _Upon the Feast of Trinity only._
 
 Who, with thine only-begotten Son, and the Holy Ghost, art one God,
 one Lord, in Trinity of Persons and in Unity of Substance. For that
@@ -625,7 +658,7 @@ Son, and of the Holy Ghost, without any difference of inequality.
 
 Therefore with Angels, etc.
 
-¶ _Or this._
+� _Or this._
 
 For the precious death and merits of thy Son Jesus Christ our Lord,
 and for the sending to us of the Holy Ghost, the Comforter; who are
@@ -636,7 +669,7 @@ Therefore with Angels, etc.
 
                              All Saints
 
-¶ _Upon All Saints’ Day, and seven days after._
+� _Upon All Saints' Day, and seven days after._
 
 Who, in the multitude of thy Saints, hast compassed us about with so
 great a cloud of witnesses that we, rejoicing in their fellowship,
@@ -647,12 +680,12 @@ Therefore with Angels and Archangels, and with all the company of
 heaven, we laud and magnify thy glorious Name; evermore praising
 thee, and saying,
 
-¶ _Priest and People._
+� _Priest and People._
 
 HOLY, HOLY, HOLY, Lord God of hosts, Heaven and earth are full of
 thy glory: Glory be to thee, O Lord Most High. Amen.
 
-¶ _When the Priest, standing before the Holy Table, hath so ordered
+� _When the Priest, standing before the Holy Table, hath so ordered
 the Bread and Wine, that he may with the more readiness and decency
 break the Bread before the People, and take the Cup into his hands,
 he shall say the Prayer of Consecration, as followeth._
@@ -702,7 +735,7 @@ And we most humbly beseech thee, O merciful Father, to hear us; and,
 of thy almighty goodness, vouchsafe to bless and sanctify, with thy
 Word and Holy Spirit, these thy gifts and creatures of bread and
 wine; that we, receiving them according to thy Son our Saviour Jesus
-Christ’s holy institution, in remembrance of his death and passion,
+Christ's holy institution, in remembrance of his death and passion,
 may be partakers of his most blessed Body and Blood.
 
 And we earnestly desire thy fatherly goodness, mercifully to accept
@@ -733,7 +766,7 @@ those who trespass against us. And lead us not into temptation, But
 deliver us from evil. For thine is the kingdom, and the power, and
 the glory, for ever and ever. Amen.
 
-¶ _Then shall the Priest, kneeling down at the Lord’s Table, say, in
+� _Then shall the Priest, kneeling down at the Lord's Table, say, in
 the name of all those who shall receive the Communion, this Prayer
 following._
 
@@ -747,9 +780,9 @@ sinful bodies may be made clean by his body, and our souls washed
 through his most precious blood, and that we may evermore dwell in
 him, and he in us. _Amen._
 
-¶ _Here may be Sung a Hymn._
+� _Here may be Sung a Hymn._
 
-¶ _Then shall the Priest first receive the Holy Communion in both
+� _Then shall the Priest first receive the Holy Communion in both
 kinds himself, and proceed to deliver the same to the Bishops,
 Priests, and Deacons, in like manner, (if any be present,) and,
 after that, to the People also in order, into their hands, all
@@ -762,23 +795,23 @@ preserve thy body and soul unto everlasting life. Take and eat this
 in remembrance that Christ died for thee, and feed on him in thy
 heart by faith, with thanksgiving.
 
-¶ _And the Minister who delivereth the Cup shall say,_
+� _And the Minister who delivereth the Cup shall say,_
 
 The Blood of our Lord Jesus Christ, which was shed for thee,
 preserve thy body and soul unto everlasting life. Drink this in
-remembrance that Christ’s Blood was shed for thee, and be thankful.
+remembrance that Christ's Blood was shed for thee, and be thankful.
 
-¶ _If the consecrated Bread or Wine be spent before all have
+� _If the consecrated Bread or Wine be spent before all have
 communicated, the Priest is to consecrate more, according to the
 Form before prescribed; beginning at, _All glory be to thee,
 Almighty God_, and ending with these words, _partakers of his most
 blessed Body and Blood_._
 
-¶ _When all have communicated, the Priest shall return to the Lord’s
+� _When all have communicated, the Priest shall return to the Lord's
 Table, and reverently place upon it what remaineth of the
 consecrated Elements, covering the same with a fair linen cloth._
 
-¶ _Then shall the Priest say,_
+� _Then shall the Priest say,_
 
                             Let us pray.
 
@@ -796,7 +829,7 @@ fellowship, and do all such good works as thou hast prepared for us
 to walk in; through Jesus Christ our Lord, to whom, with thee and
 the Holy Ghost, be all honour and glory, world without end. _Amen._
 
-¶ _Then shall be said the Gloria in excelsis, all standing, or some
+� _Then shall be said the Gloria in excelsis, all standing, or some
 proper Hymn._
 
 Glory be to God on high, and on earth peace, good will towards men.
@@ -814,7 +847,7 @@ For thou only art holy; thou only art the Lord; thou only, O Christ,
 with the Holy Ghost, art most high in the glory of God the Father.
 Amen.
 
-¶ _Then, the People kneeling, the Priest (the Bishop if he be
+� _Then, the People kneeling, the Priest (the Bishop if he be
 present) shall let them depart with this Blessing._
 
 The Peace of God, which passeth all understanding, keep your hearts
@@ -826,32 +859,32 @@ _Amen._
 
                           GENERAL RUBRICS
 
-¶ _In the absence of a Priest, a Deacon may say all that is before
+� _In the absence of a Priest, a Deacon may say all that is before
 appointed unto the end of the Gospel._
 
-¶ _Upon the Sundays and other Holy Days, (though there be no Sermon
+� _Upon the Sundays and other Holy Days, (though there be no Sermon
 or Communion,) may be said all that is appointed at the Communion,
 unto the end of the Gospel, concluding with the Blessing._
 
-¶ _And if any of the consecrated Bread and Wine remain after the
+� _And if any of the consecrated Bread and Wine remain after the
 Communion, it shall not be carried out of the Church; but the
 Minister and other Communicants shall, immediately after the
 Blessing, reverently eat and drink the same._
 
-¶ _If among those who come to be partakers of the Holy Communion,
+� _If among those who come to be partakers of the Holy Communion,
 the Minister shall know any to be an open and notorious evil liver,
 or to have done any wrong to his neighbours by word or deed, so that
 the Congregation be thereby offended; he shall advertise him, that
-he presume not to come to the Lord’s Table, until he have openly
+he presume not to come to the Lord's Table, until he have openly
 declared himself to have truly repented and amended his former evil
 life, that the Congregation may thereby be satisfied; and that he
 hath recompensed the parties to whom he hath done wrong; or at least
 declare himself to be in full purpose so to do, as soon as he
 conveniently may._
 
-¶ _The same order shall the Minister use with those, betwixt whom he
+� _The same order shall the Minister use with those, betwixt whom he
 perceiveth malice and hatred to reign; not suffering them to be
-partakers of the Lord’s Table, until he know them to be reconciled.
+partakers of the Lord's Table, until he know them to be reconciled.
 And if one of the parties, so at variance, be content to forgive
 from the bottom of his heart all that the other hath trespassed
 against him, and to make amends for that wherein he himself hath
@@ -877,8 +910,8 @@ unto thee; through Jesus Christ our Lord. _Amen._
 
 Grant, O Lord, that I may not be ashamed to confess the faith of
 Christ crucified, and manfully to fight under his banner against
-sin, the world, and the devil, and to continue Christ’s faithful
-soldier and servant unto my life’s end. _Amen._
+sin, the world, and the devil, and to continue Christ's faithful
+soldier and servant unto my life's end. _Amen._
 
 Defend, O Lord, this thy Child with thy heavenly grace; that I may
 continue thine for ever; and daily increase in thy Holy Spirit more
@@ -911,7 +944,7 @@ _Amen._
 Shield us, O God, from the darkness of soul which seeth thee not,
 and from the loneliness of heart which heareth not thy voice, and
 through life and in the valley of the shadow of death, forsake us
-not; for thy Name’s sake. _Amen._
+not; for thy Name's sake. _Amen._
 
 Deepen and quicken in us, O God, a sense of thy Presence, and make
 us to know and feel that thou art more ready to teach and to give
@@ -976,7 +1009,7 @@ praise and glory of God.
                  _Glory be to thee, O Holy Spirit._
 
 
-                           For God’s Help
+                           For God's Help
 
 Grant us, O Lord, in all our duties thy help, in all our
 perplexities thy counsel, in all our dangers thy protection, and in
@@ -989,7 +1022,7 @@ that is good without thee, may by thee be enabled to live according
 to thy will; through Jesus Christ our Lord. _Amen._
 
 
-                        For God’s Protection
+                        For God's Protection
 
 O Almighty and most merciful God, of thy bountiful goodness keep us,
 we beseech thee, from all things that may hurt us; that we, being
@@ -1009,7 +1042,7 @@ mercy defend us from all perils and dangers of this night; for the
 love of thy only Son, our Saviour, Jesus Christ. _Amen._
 
 
-                          For God’s Mercy
+                          For God's Mercy
 
 O God, the protector of all that trust in thee, without whom nothing
 is strong, nothing is holy; Increase and multiply upon us thy mercy;
@@ -1027,7 +1060,7 @@ rule our hearts; through Jesus Christ our Lord. _Amen._
 
                        For Christian Gladness
 
-O God, Author of the world’s joy, Bearer of the world’s pain; At the
+O God, Author of the world's joy, Bearer of the world's pain; At the
 heart of all our trouble and sorrow let unconquerable gladness
 dwell; through our Lord and Saviour Jesus Christ. _Amen._
 
@@ -1126,7 +1159,7 @@ Lord. _Amen._
 
 O eternal Lord God, who alone spreadest out the heavens, and rulest
 the raging of the sea; Vouchsafe to take into thy almighty and most
-gracious protection our country’s Navy, and all who serve therein.
+gracious protection our country's Navy, and all who serve therein.
 Preserve them from the dangers of the sea, and from the violence of
 the enemy; that they may be a safeguard unto the United States of
 America, and a security for such as pass on the seas upon their
@@ -1270,7 +1303,7 @@ Jesus Christ our Lord. _Amen._
 
                            For the Dying
 
-Unto God’s gracious mercy and protection we commit you. The Lord
+Unto God's gracious mercy and protection we commit you. The Lord
 bless you and keep you. The Lord make his face to shine upon you,
 and be gracious unto you. The Lord lift up his countenance upon you,
 and give you peace, both now and evermore. _Amen._
@@ -1408,7 +1441,7 @@ acceptable in thy sight, O Lord, my strength, and my redeemer.
 the still waters.
 
 3 He restoreth my soul: he leadeth me in the paths of righteousness
-for his name’s sake.
+for his name's sake.
 
 4 Yea, though I walk through the valley of the shadow of death, I
 will fear no evil: for thou _art_ with me; thy rod and thy staff
@@ -1635,7 +1668,7 @@ holy name.
 lovingkindness and tender mercies;
 
 5 Who satisfieth thy mouth with good _things_; _so that_ thy youth
-is renewed like the eagle’s.
+is renewed like the eagle's.
 
 6 The Lord executeth righteousness and judgment for all that are
 oppressed.
@@ -1670,7 +1703,7 @@ so he flourisheth.
 thereof shall know it no more.
 
 17 But the mercy of the Lord _is_ from everlasting to everlasting
-upon them that fear him, and his righteousness unto children’s
+upon them that fear him, and his righteousness unto children's
 children;
 
 18 To such as keep his covenant, and to those that remember his
@@ -1787,7 +1820,7 @@ sheep. John 10:9-11
 1 Let not your heart be troubled: ye believe in God, believe also in
 me.
 
-2 In my Father’s house are many mansions: if _it were_ not _so_, I
+2 In my Father's house are many mansions: if _it were_ not _so_, I
 would have told you. I go to prepare a place for you.
 
 3 And if I go and prepare a place for you, I will come again, and
@@ -1877,8 +1910,8 @@ for they shall be filled.
 9 Blessed _are_ the peacemakers: for they shall be called the
 children of God.
 
-10 Blessed _are_ they which are persecuted for righteousness’ sake:
-for their’s is the kingdom of heaven.
+10 Blessed _are_ they which are persecuted for righteousness' sake:
+for their's is the kingdom of heaven.
 
 11 Blessed are ye, when _men_ shall revile you, and persecute _you_,
 and shall say all manner of evil against you falsely, for my sake.
@@ -1937,7 +1970,7 @@ also forgive you:
 Father forgive your trespasses. Matthew 6:5-12
 
 
-                        The Father’s Kingdom
+                        The Father's Kingdom
 
 25 Therefore I say unto you, Take no thought for your life, what ye
 shall eat, or what ye shall drink; nor yet for your body, what ye
@@ -1997,7 +2030,7 @@ he sent him into his fields to feed swine.
 swine did eat: and no man gave unto him.
 
 17 And when he came to himself, he said, How many hired servants of
-my father’s have bread enough and to spare, and I perish with
+my father's have bread enough and to spare, and I perish with
 hunger!
 
 18 I will arise and go to my father, and will say unto him, Father,
@@ -2240,7 +2273,7 @@ _therein_, he being not a forgetful hearer, but a doer of the work,
 this man shall be blessed in his deed.
 
 26 If any man among you seem to be religious, and bridleth not his
-tongue, but deceiveth his own heart, this man’s religion _is_ vain.
+tongue, but deceiveth his own heart, this man's religion _is_ vain.
 
 27 Pure religion and undefiled before God and the Father is this, To
 visit the fatherless and widows in their affliction, _and_ to keep
@@ -2364,24 +2397,24 @@ wipe away all tears from their eyes. Revelation 7:9-17
   When other helpers fail, and comforts flee,
   Help of the helpless, O abide with me.
 
-  2 Swift to its close ebbs out life’s little day;
-  Earth’s joys grow dim, its glories pass away,
+  2 Swift to its close ebbs out life's little day;
+  Earth's joys grow dim, its glories pass away,
   Change and decay in all around I see;
   O thou who changest not, abide with me.
 
   3 I need thy presence every passing hour;
-  What but thy grace can foil the tempter’s power?
+  What but thy grace can foil the tempter's power?
   Who, like thyself, my guide and stay can be?
   Through cloud and sunshine, Lord, abide with me.
 
   4 I fear no foe, with thee at hand to bless:
   Ills have no weight, and tears no bitterness.
-  Where is death’s sting? where, grave, thy victory?
+  Where is death's sting? where, grave, thy victory?
   I triumph still, if thou abide with me.
 
   5 Hold thou thy cross before my closing eyes:
   Shine through the gloom, and point me to the skies:
-  Heaven’s morning breaks, and earth’s vain shadows flee:
+  Heaven's morning breaks, and earth's vain shadows flee:
   In life, in death, O Lord, abide with me.    Amen.
 
 
@@ -2390,12 +2423,12 @@ wipe away all tears from their eyes. Revelation 7:9-17
   1 Sun of my soul, thou Saviour dear,
   It is not night if thou be near;
   O may no earth-born cloud arise
-  To hide thee from thy servant’s eyes.
+  To hide thee from thy servant's eyes.
 
   2 When the soft dews of kindly sleep
   My weary eyelids gently steep,
   Be my last thought, how sweet to rest
-  For ever on my Saviour’s breast.
+  For ever on my Saviour's breast.
 
   3 Abide with me from morn till eve,
   For without thee I cannot live;
@@ -2409,8 +2442,8 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
   5 Watch by the sick; enrich the poor
   With blessings from thy boundless store;
-  Be every mourner’s sleep to-night,
-  Like infant’s slumbers, pure and light.
+  Be every mourner's sleep to-night,
+  Like infant's slumbers, pure and light.
 
   6 Come near and bless us when we wake,
   Ere through the world our way we take,
@@ -2470,8 +2503,8 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
   4 When I tread the verge of Jordan,
     Bid my anxious fears subside;
-  Death of death, and hell’s destruction,
-    Land me safe on Canaan’s side.    Amen.
+  Death of death, and hell's destruction,
+    Land me safe on Canaan's side.    Amen.
 
 
 7.    (16)
@@ -2526,7 +2559,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
       2 God of God,
       Light of Light,
-  Lo! He abhors not the Virgin’s womb:
+  Lo! He abhors not the Virgin's womb:
       Very God,
       Begotten, not created;
       O come, let us adore him, etc.
@@ -2561,7 +2594,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
   Christ, the Saviour, is born!
 
   3 Silent night, holy night,
-  Son of God, love’s pure light
+  Son of God, love's pure light
   Radiant beams from thy holy face,
   With the dawn of redeeming grace,
   Jesus, Lord, at thy birth.    Amen.
@@ -2574,35 +2607,35 @@ wipe away all tears from their eyes. Revelation 7:9-17
   What more can he say than to you he hath said,
   You who unto Jesus for refuge have fled?
 
-  2 “Fear not, I am with thee; O be not dismayed!
+  2 "Fear not, I am with thee; O be not dismayed!
   I, I am thy God, and will still give thee aid;
-  I’ll strengthen thee, help thee, and cause thee to stand.
+  I'll strengthen thee, help thee, and cause thee to stand.
   Upheld by my righteous, omnipotent hand.
 
-  3 “When through the deep waters I call thee to go,
+  3 "When through the deep waters I call thee to go,
   The rivers of woe shall not thee overflow;
   For I will be with thee, thy troubles to bless,
   And sanctify to thee thy deepest distress.
 
-  4 “When through fiery trials thy pathway shall lie,
+  4 "When through fiery trials thy pathway shall lie,
   My grace, all-sufficient, shall be thy supply;
   The flame shall not hurt thee; I only design
   Thy dross to consume, and thy gold to refine.
 
-  5 “The soul that to Jesus hath fled for repose,
+  5 "The soul that to Jesus hath fled for repose,
   I will not, I will not desert to his foes;
   That soul, though all hell shall endeavor to shake,
-  I’ll never, no, never, no, never forsake.”    Amen.
+  I'll never, no, never, no, never forsake."    Amen.
 
 
 11.    (29)
 
   1 In the cross of Christ I glory,
-    Towering o’er the wrecks of time;
+    Towering o'er the wrecks of time;
   All the light of sacred story
     Gathers round its head sublime.
 
-  2 When the woes of life o’ertake me,
+  2 When the woes of life o'ertake me,
     Hopes deceive, and fears annoy,
   Never shall the cross forsake me:
     Lo! it glows with peace and joy.
@@ -2618,7 +2651,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
     Joys that through all time abide.
 
   5 In the cross of Christ I glory,
-    Towering o’er the wrecks of time;
+    Towering o'er the wrecks of time;
   All the light of sacred story
     Gathers round its head sublime.    Amen.
 
@@ -2637,7 +2670,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
   3 See, from his head, his hands, his feet,
     Sorrow and love flow mingled down!
-  Did e’er such love and sorrow meet?
+  Did e'er such love and sorrow meet?
     Or thorns compose so rich a crown?
 
   4 Were the whole realm of nature mine,
@@ -2648,7 +2681,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
 13.    (34)
 
-  1 The strife is o’er, the battle done,
+  1 The strife is o'er, the battle done,
   The victory of life is won;
   The song of triumph has begun.
                         Alleluia!
@@ -2664,12 +2697,12 @@ wipe away all tears from their eyes. Revelation 7:9-17
                         Alleluia!
 
   4 He closed the yawning gates of hell,
-  The bars from heaven’s high portals fell;
+  The bars from heaven's high portals fell;
   Let hymns of praise his triumphs tell!
                         Alleluia!
 
   5 Lord! by the stripes which wounded thee,
-  From death’s dread sting thy servants free,
+  From death's dread sting thy servants free,
   That we may live and sing to thee.
                         Alleluia!    Amen.
 
@@ -2695,7 +2728,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
     That all in him may rest.
 
   3 Crown him the Lord of life,
-    Who triumphed o’er the grave,
+    Who triumphed o'er the grave,
   And rose victorious in the strife
     For those he came to save;
   His glories now we sing
@@ -2727,7 +2760,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
   1 Holy, Holy, Holy! Lord God Almighty!
     Early in the morning our song shall rise to thee:
   Holy, Holy, Holy! merciful and mighty!
-    God in three Persons, blessèd Trinity.
+    God in three Persons, bless�d Trinity.
 
   2 Holy, Holy, Holy! all the saints adore thee,
     Casting down their golden crowns around the glassy sea;
@@ -2742,17 +2775,17 @@ wipe away all tears from their eyes. Revelation 7:9-17
   4 Holy, Holy, Holy! Lord God Almighty!
     All thy works shall praise thy Name, in earth, and sky, and sea;
   Holy, Holy, Holy! merciful and mighty!
-    God in three Persons, blessèd Trinity.    Amen.
+    God in three Persons, bless�d Trinity.    Amen.
 
 
 16.    (41)
 
   1 Blest be the tie that binds
-    Our hearts in Jesus’ love:
+    Our hearts in Jesus' love:
   The fellowship of Christian minds
     Is like to that above.
 
-  2 Before our Father’s throne
+  2 Before our Father's throne
     We pour united prayers;
   Our fears, our hopes, our aims are one;
     Our comforts and our cares.
@@ -2763,7 +2796,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
     The sympathizing tear.
 
   4 When we at death must part.
-    Not like the world’s, our pain;
+    Not like the world's, our pain;
   But one in Christ, and one in heart,
     We part to meet again.
 
@@ -2791,17 +2824,17 @@ wipe away all tears from their eyes. Revelation 7:9-17
   Pure, warm, and changeless be,
     A living fire.
 
-  3 While life’s dark maze I tread,
+  3 While life's dark maze I tread,
   And griefs around me spread,
     Be thou my guide;
   Bid darkness turn to day;
-  Wipe sorrow’s tears away;
+  Wipe sorrow's tears away;
   Nor let me ever stray
     From thee aside!
 
-  4 When ends life’s transient dream,
-  When death’s cold, sullen stream
-    Shall o’er me roll;
+  4 When ends life's transient dream,
+  When death's cold, sullen stream
+    Shall o'er me roll;
   Blest Saviour, then in love,
   Fear and distrust remove;
   O bear me safe above,
@@ -2810,27 +2843,27 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
 18.    (43)
 
-  1 All hail the power of Jesus’ Name!
+  1 All hail the power of Jesus' Name!
     Let angels prostrate fall;
   Bring forth the royal diadem,
     And crown him Lord of all!
 
   2 Crown him, ye martyrs of our God,
     Who from his altar call:
-  Extol the Stem-of-Jesse’s rod,
+  Extol the Stem-of-Jesse's rod,
     And crown him Lord of all!
 
-  3 Hail him, the Heir of David’s line,
+  3 Hail him, the Heir of David's line,
     Whom David, Lord did call;
   The God incarnate! Man divine!
     And crown him Lord of all!
 
-  4 Ye seed of Israel’s chosen race,
+  4 Ye seed of Israel's chosen race,
     Ye ransomed of the fall,
   Hail him who saves you by his grace,
     And crown him Lord of all!
 
-  5 Sinners, whose love can ne’er forget
+  5 Sinners, whose love can ne'er forget
     The wormwood and the gall,
   Go, spread your trophies at his feet,
     And crown him Lord of all!
@@ -2906,7 +2939,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
   2 O Light that followest all my way,
     I yield my flickering torch to thee;
   My heart restores its borrowed ray,
-  That in thy sunshine’s blaze its day
+  That in thy sunshine's blaze its day
     May brighter, fairer be.
 
   3 O Joy that seekest me through pain,
@@ -2917,25 +2950,25 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
   4 O Cross that liftest up my head,
     I dare not ask to fly from thee;
-  I lay in dust life’s glory dead,
+  I lay in dust life's glory dead,
   And from the ground there blossoms red
     Life that shall endless be.    Amen.
 
 
 22.    (51)
 
-  1 There’s a wideness in God’s mercy
+  1 There's a wideness in God's mercy
     Like the wideness of the sea;
-  There’s a kindness in his justice,
+  There's a kindness in his justice,
     Which is more than liberty.
   There is welcome for the sinner,
     And more graces for the good;
   There is mercy with the Saviour;
     There is healing in his blood.
 
-  2 There is no place where earth’s sorrows
+  2 There is no place where earth's sorrows
     Are more felt than up in heaven;
-  There is no place where earth’s failings
+  There is no place where earth's failings
     Have such kindly judgment given.
   There is plentiful redemption
     In the blood that has been shed;
@@ -2943,7 +2976,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
     In the sorrows of the Head.
 
   3 For the love of God is broader
-    Than the measure of man’s mind;
+    Than the measure of man's mind;
   And the heart of the Eternal
     Is most infinitely kind.
   If our love were but more simple,
@@ -2984,7 +3017,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
   1 Eternal Father! strong to save,
   Whose arm hath bound the restless wave,
-  Who bidd’st the mighty ocean deep
+  Who bidd'st the mighty ocean deep
   Its own appointed limits keep;
       O hear us when we cry to thee
       For those in peril on the sea!
@@ -3004,9 +3037,9 @@ wipe away all tears from their eyes. Revelation 7:9-17
       For those in peril on the sea!
 
   4 O Trinity of love and power!
-  Our brethren shield in danger’s hour;
+  Our brethren shield in danger's hour;
   From rock and tempest, fire and foe,
-  Protect them wheresoe’er they go;
+  Protect them wheresoe'er they go;
       Thus evermore shall rise to thee
       Glad hymns of praise from land and sea.    Amen.
 
@@ -3017,7 +3050,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
     With heart, and hands, and voices,
   Who wondrous things hath done,
     In whom his world rejoices;
-  Who from our mother’s arms
+  Who from our mother's arms
     Hath blessed us on our way
   With countless gifts of love,
     And still is ours to-day.
@@ -3081,22 +3114,22 @@ wipe away all tears from their eyes. Revelation 7:9-17
     Comes the moment to decide,
   In the strife of truth with falsehood,
     For the good or evil side;
-  Some great cause, God’s new Messiah,
+  Some great cause, God's new Messiah,
     Offering each the bloom or blight,
   And the choice goes by for ever
-    ’Twixt that darkness and that light.
+    'Twixt that darkness and that light.
 
   2 Then to side with truth is noble,
     When we share her wretched crust,
   Ere her cause bring fame and profit,
-    And ’tis prosperous to be just;
+    And 'tis prosperous to be just;
   Then it is the brave man chooses,
     While the coward stands aside
   Till the multitude make virtue
     Of the faith they had denied.
 
   3 By the light of burning martyrs
-    Jesus’ bleeding feet I track,
+    Jesus' bleeding feet I track,
   Toiling up new Calvaries ever
     With the cross that turns not back;
   New occasions teach new duties,
@@ -3105,7 +3138,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
     Who would keep abreast of truth.
 
   4 Though the cause of evil prosper,
-    Yet ’tis truth alone is strong;
+    Yet 'tis truth alone is strong;
   Though her portion be the scaffold,
     And upon the throne be wrong,
   Yet that scaffold sways the future,
@@ -3116,7 +3149,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
 28.    (74)
 
-  1 The Church’s one foundation
+  1 The Church's one foundation
     Is Jesus Christ her Lord;
   She is his new creation
     By water and the word:
@@ -3126,7 +3159,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
     And for her life he died.
 
   2 Elect from every nation,
-    Yet one o’er all the earth,
+    Yet one o'er all the earth,
   Her charter of salvation,
     One Lord, one faith, one birth;
   One holy Name she blesses,
@@ -3139,11 +3172,11 @@ wipe away all tears from their eyes. Revelation 7:9-17
   By schisms rent asunder,
     By heresies distrest;
   Yet saints their watch are keeping,
-    Their cry goes up, “How long?”
+    Their cry goes up, "How long?"
   And soon the night of weeping
     Shall be the morn of song.
 
-  4 ’Mid toil and tribulation,
+  4 'Mid toil and tribulation,
     And tumult of her war,
   She waits the consummation
     Of peace for evermore;
@@ -3170,8 +3203,8 @@ wipe away all tears from their eyes. Revelation 7:9-17
     Formed thee for his own abode;
   On the Rock of Ages founded,
     What can shake thy sure repose?
-  With salvation’s walls surrounded,
-    Thou may’st smile at all thy foes.
+  With salvation's walls surrounded,
+    Thou may'st smile at all thy foes.
 
   2 See, the streams of living waters
     Springing from eternal love,
@@ -3192,10 +3225,10 @@ wipe away all tears from their eyes. Revelation 7:9-17
     Which he gives them when they pray.
 
   4 Blest inhabitants of Sion,
-    Washed in the Redeemer’s blood!
+    Washed in the Redeemer's blood!
   Jesus, whom their souls rely on,
     Makes them kings and priests to God.
-  ’Tis his love his people raises
+  'Tis his love his people raises
     Over self to reign as kings:
   And as priests, his solemn praises
     Each for a thank-offering brings.    Amen.
@@ -3203,7 +3236,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
 30.    (76)
 
-  1 Jesus shall reign where’er the sun
+  1 Jesus shall reign where'er the sun
   Doth his successive journeys run;
   His kingdom stretch from shore to shore,
   Till moons shall wax and wane no more.
@@ -3218,7 +3251,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
   And infant voices shall proclaim
   Their early blessings on his Name.
 
-  4 Blessings abound where’er he reigns;
+  4 Blessings abound where'er he reigns;
   The prisoner leaps to lose his chains,
   The weary find eternal rest,
   And all the sons of want are blest.
@@ -3247,9 +3280,9 @@ wipe away all tears from their eyes. Revelation 7:9-17
     Receive the King of glory in.
 
   4 Who is the King of glory, who?
-    The Lord that all his foes o’ercame,
-  The world, sin, death, and hell o’erthrew;
-    And Jesus is the Conqueror’s name.
+    The Lord that all his foes o'ercame,
+  The world, sin, death, and hell o'erthrew;
+    And Jesus is the Conqueror's name.
 
   5 Lo! His triumphal chariot waits,
     And angels chant the solemn lay:
@@ -3275,7 +3308,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
   In trust that triumphs over wrong,
 
   4 In hope that sends a shining ray
-  Far down the future’s broadening way,
+  Far down the future's broadening way,
   In peace that only thou canst give,
   With thee, O Master, let me live.    Amen.
 
@@ -3296,10 +3329,10 @@ wipe away all tears from their eyes. Revelation 7:9-17
         Going on before!
 
   2 At the sign of triumph
-    Satan’s host doth flee;
+    Satan's host doth flee;
   On, then, Christian soldiers,
     On to victory!
-  Hell’s foundations quiver
+  Hell's foundations quiver
     At the shout of praise;
   Brothers, lift your voices,
     Loud your anthems raise!
@@ -3320,8 +3353,8 @@ wipe away all tears from their eyes. Revelation 7:9-17
   But the Church of Jesus
     Constant will remain;
   Gates of hell can never
-    ’Gainst that Church prevail;
-  We have Christ’s own promise,
+    'Gainst that Church prevail;
+  We have Christ's own promise,
     And that cannot fail.
       Onward, etc.
 
@@ -3368,7 +3401,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
   4 Stand up, stand up, for Jesus!
     The strife will not be long:
   This day, the noise of battle;
-    The next, the victor’s song.
+    The next, the victor's song.
   To him that overcometh,
     A crown of life shall be;
   He with the King of glory
@@ -3382,7 +3415,7 @@ wipe away all tears from their eyes. Revelation 7:9-17
   Leave to thy God to order and provide;
     In every change he faithful will remain.
   Be still, my soul: thy best, thy heavenly Friend
-    Thro’ thorny ways leads to a joyful end.
+    Thro' thorny ways leads to a joyful end.
 
   2 Be still, my soul: thy God doth undertake
     To guide the future as he has the past.
@@ -3394,14 +3427,14 @@ wipe away all tears from their eyes. Revelation 7:9-17
   3 Be still, my soul: the hour is hastening on
     When we shall be forever with the Lord,
   When disappointment, grief, and fear are gone,
-    Sorrow forgot, love’s purest joys restored.
+    Sorrow forgot, love's purest joys restored.
   Be still, my soul: when change and tears are past,
     All safe and blessed we shall meet at last.    Amen.
 
 
 36.    (89)
 
-  1 We gather together to ask the Lord’s blessing;
+  1 We gather together to ask the Lord's blessing;
     He chastens and hastens his will to make known;
   The wicked oppressing now cease from distressing,
     Sing praises to his Name; he forgets not his own.
@@ -3452,11 +3485,11 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
 38.    (68)
 
-  1 My country, ’tis of thee,
+  1 My country, 'tis of thee,
   Sweet land of liberty,
     Of thee I sing;
   Land where my fathers died,
-  Land of the pilgrims’ pride,
+  Land of the pilgrims' pride,
   From every mountain-side
     Let freedom ring.
 
@@ -3470,24 +3503,24 @@ wipe away all tears from their eyes. Revelation 7:9-17
 
   3 Let music swell the breeze,
   And ring from all the trees
-    Sweet freedom’s song;
+    Sweet freedom's song;
   Let mortal tongues awake,
   Let all that breathe partake,
   Let rocks their silence break,
     The sound prolong.
 
-  4 Our fathers’ God, to thee,
+  4 Our fathers' God, to thee,
   Author of liberty,
     To thee we sing;
   Long may our land be bright
-  With freedom’s holy light;
+  With freedom's holy light;
   Protect us by thy might,
     Great God, our King.    Amen.
 
 
 
 
-                        Transcriber’s Notes
+                        Transcriber's Notes
 
 
 --Silently corrected a few typos.
@@ -3503,4 +3536,365 @@ wipe away all tears from their eyes. Revelation 7:9-17
 End of the Project Gutenberg EBook of A Prayer Book for Soldiers and Sailors, by 
 Anonymous
 
-*** END OF THE PROJECT GUTENBERG EBOOK 50469 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK PRAYER BOOK--SOLDIERS, SAILORS ***
+
+***** This file should be named 50469-8.txt or 50469-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/0/4/6/50469/
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
